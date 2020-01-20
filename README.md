@@ -1,7 +1,7 @@
 # daizhigev20
 殆知阁古代文献txt大全集
 
-##### 百度云链接已失效，下载请直接点击项目右上角绿色的‘clone or download’键！！！
+## 百度云链接已失效，下载请直接点击项目右上角绿色的‘clone or download’键！！！
 # 也可以点击这里下载 
 <a href="https://github.com/garychowcmu/daizhigev20/archive/master.zip" class="btn btn-sm empty-icon float-right BtnGroup-item" data-pjax="" data-hotkey="t" data-ga-click="Repository, find file, location:repo overview">
       ## 点我下载！
@@ -9,7 +9,7 @@
 
 # 下载键在上面！
 
-关于检索：
+## 关于检索：
 1. 检索文中文字请直接在网页最上的黑色框框输入文字，在本repository里面检索
 
 
