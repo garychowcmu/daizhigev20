@@ -55,6 +55,10 @@
 链接: https://pan.baidu.com/s/1u6uhUDC44pHWhaJ2Z3Q4eQ 提取码: wu4e 解压缩的密码应该是daizhige
 
 
+IPFS哈希：QmVZ72fKSyGKf8tLAmyiE1XtiZFFm9jaW1gBxAYdzjpDhd
+IPFS链接：https://ipfs.io/ipfs/QmVZ72fKSyGKf8tLAmyiE1XtiZFFm9jaW1gBxAYdzjpDhd
+IPFS前缀：ipfs://QmVZ72fKSyGKf8tLAmyiE1XtiZFFm9jaW1gBxAYdzjpDhd
+
 
 
 #### 找志愿者啦 ####
